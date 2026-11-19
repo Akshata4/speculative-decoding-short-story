@@ -13,7 +13,7 @@ Speculative decoding is a widely used way to make LLMs generate text faster: a c
 | Deliverable | Link |
 |---|---|
 | Medium article | [Speculative Decoding: Does the Speedup Survive Production?](https://medium.com/@akshatamadavi/speculative-decoding-does-the-speedup-survive-production-53517fe351f4) |
-| SlideShare deck | `<add SlideShare URL after uploading>` |
+| Slide deck (Google Slides) | [Speculative Decoding deck](https://docs.google.com/presentation/d/1-sQnehhWcS638_C92F5V7dXohmZZJJ1-z7xbAGo60y8/edit?usp=sharing) · also as [PDF](slides/speculative-decoding-deck.pdf) / [PPTX](slides/speculative-decoding-deck.pptx) in this repo |
 | YouTube video (≥ 15 min) | `<add YouTube URL after uploading>` |
 | GitHub repository | https://github.com/Akshata4/speculative-decoding-short-story |
 | Class submission spreadsheet | [Google Sheet](https://docs.google.com/spreadsheets/d/13YnPKykntSONmfqkHyh94d7KsIvjdhrkblqKg8yLTFM/edit?gid=141293072#gid=141293072) |
@@ -74,7 +74,7 @@ Every speculative decoding system makes four choices:
 ├── article/
 │   └── medium-article.md         ← full Medium article (original writing, ~3,500 words)
 ├── slides/
-│   ├── speculative-decoding-deck.pdf    ← upload this to SlideShare
+│   ├── speculative-decoding-deck.pdf    ← PDF version of the deck
 │   ├── speculative-decoding-deck.pptx   ← same deck, with speaker notes
 │   └── png/                              ← one PNG per slide (23 slides)
 ├── video/
@@ -127,10 +127,10 @@ To try the original experiments, the Berkeley team's simulator (paper 1) replays
 
 ## How to publish (checklist)
 
-- [ ] **Medium:** create a new story, paste the sections of `article/medium-article.md`, and upload the images from `figures/` where each `![...]` placeholder appears. Add tags such as *LLM, Machine Learning, AI Engineering, Inference, Speculative Decoding*. Paste the URL above.
-- [ ] **SlideShare:** upload `slides/speculative-decoding-deck.pdf`. Paste the URL above.
+- [x] **Medium:** create a new story, paste the sections of `article/medium-article.md`, and upload the images from `figures/` where each `![...]` placeholder appears. Add tags such as *LLM, Machine Learning, AI Engineering, Inference, Speculative Decoding*. Paste the URL above.
+- [x] **Slides:** published on Google Slides (SlideShare was unavailable); link above.
 - [ ] **Video:** record yourself presenting the PDF with `video/script.md` as speaker notes (target 15–18 min). Upload it to YouTube and add the `.mp4` to `video/`. The TTS draft is included as a timing reference and fallback.
-- [ ] **Spreadsheet:** add the GitHub, Medium, SlideShare and YouTube links.
+- [ ] **Spreadsheet:** add the GitHub, Medium, slides and YouTube links.
 
 ---
 
