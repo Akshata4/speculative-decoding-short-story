@@ -16,7 +16,7 @@ Speculative decoding is a widely used way to make LLMs generate text faster: a c
 | SlideShare deck | `<add SlideShare URL after uploading>` |
 | YouTube video (≥ 15 min) | `<add YouTube URL after uploading>` |
 | GitHub repository | https://github.com/Akshata4/speculative-decoding-short-story |
-| Class spreadsheet entry | `<add after submitting>` |
+| Class submission spreadsheet | [Google Sheet](https://docs.google.com/spreadsheets/d/13YnPKykntSONmfqkHyh94d7KsIvjdhrkblqKg8yLTFM/edit?gid=141293072#gid=141293072) |
 
 ---
 
