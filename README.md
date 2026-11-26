@@ -14,7 +14,7 @@ Speculative decoding is a widely used way to make LLMs generate text faster: a c
 |---|---|
 | Medium article | [Speculative Decoding: Does the Speedup Survive Production?](https://medium.com/@akshatamadavi/speculative-decoding-does-the-speedup-survive-production-53517fe351f4) |
 | Slide deck (Google Slides) | [Speculative Decoding deck](https://docs.google.com/presentation/d/1-sQnehhWcS638_C92F5V7dXohmZZJJ1-z7xbAGo60y8/edit?usp=sharing) · also as [PDF](slides/speculative-decoding-deck.pdf) / [PPTX](slides/speculative-decoding-deck.pptx) in this repo |
-| YouTube video (≥ 15 min) | `<add YouTube URL after uploading>` |
+| YouTube video (≥ 15 min) | https://www.youtube.com/watch?v=xOJ2_Xi8POA&t=23s |
 | GitHub repository | https://github.com/Akshata4/speculative-decoding-short-story |
 | Class submission spreadsheet | [Google Sheet](https://docs.google.com/spreadsheets/d/13YnPKykntSONmfqkHyh94d7KsIvjdhrkblqKg8yLTFM/edit?gid=141293072#gid=141293072) |
 
